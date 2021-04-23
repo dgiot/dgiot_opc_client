@@ -15,12 +15,11 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
 
 packages
-shuwa_opc/bin
-shuwa_opc/obj
+dgiot_opc/bin
+dgiot_opc/obj
 
