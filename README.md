@@ -1,3 +1,3 @@
-## dgiot_opc
+## dgiot_opc_client
 
-dgiot_opc
+dgiot_opc_client
