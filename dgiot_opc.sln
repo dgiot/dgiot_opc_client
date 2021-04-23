@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dgiot_opc", "dgiot_opc\dgiot_opc.csproj", "{5261A1B2-5058-4551-A2A6-3AA270F9C99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5261A1B2-5058-4551-A2A6-3AA270F9C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5261A1B2-5058-4551-A2A6-3AA270F9C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5261A1B2-5058-4551-A2A6-3AA270F9C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5261A1B2-5058-4551-A2A6-3AA270F9C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
